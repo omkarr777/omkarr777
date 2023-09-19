@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkarr777
-- 👀 I’m interested in c++, front-end.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in React.js, Mui, FrontEnd Tech, DSA,c++.
+- 🌱 I’m currently learning Full Stack web development.
 - 📫 Gmail : omkarrpatil777@gmail.com.
 
 <!---
